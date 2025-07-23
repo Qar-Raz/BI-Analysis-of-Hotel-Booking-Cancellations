@@ -3,9 +3,9 @@
 ### Final Dashboard
 <table>
   <tr>
-    <td><img src="./Dashboard%20Img%201.png" alt="Dashboard View 1"></td>
-    <td><img src="./Dashboard%20Img%202.png" alt="Dashboard View 2"></td>
-    <td><img src="./Dashboard%20Img%203.png" alt="Dashboard View 3"></td>
+    <td><img src="./Dashboard%20Img%201.jpg" alt="Dashboard View 1"></td>
+    <td><img src="./Dashboard%20Img%202.jpg" alt="Dashboard View 2"></td>
+    <td><img src="./Dashboard%20Img%203.jpg" alt="Dashboard View 3"></td>
   </tr>
 </table>
 
@@ -35,22 +35,22 @@ This project was structured using the five stages of the Design Thinking framewo
 
 This repository contains the core components of the analysis:
 
-*   `Hotel_Booking_Analysis.ipynb`: A **Jupyter Notebook** containing all the Python code for the project.
+*   `Data Wrangling And EDA Notebook.ipynb`: A **Jupyter Notebook** containing all the Python code for the project.
     *   **Data Wrangling & EDA:** Includes cleaning, feature engineering, and univariate/bivariate analysis using Pandas and Matplotlib.
     *   **Statistical Testing & Outlier Detection:** Performed ANOVA, Chi-squared, and IQR methods to validate findings.
 
     ### EDA Visualizations
     <table>
       <tr>
-        <td><img src="./Eda%20Img%201.png" alt="EDA Chart 1"></td>
-        <td><img src="./Eda%20Img%202.png" alt="EDA Chart 2"></td>
-        <td><img src="./Eda%20Img%203.png" alt="EDA Chart 3"></td>
+        <td><img src="./Eda%20Img%201.jpg" alt="EDA Chart 1"></td>
+        <td><img src="./Eda%20img%202.jpg" alt="EDA Chart 2"></td>
+        <td><img src="./Eda%20Img%203.jpg" alt="EDA Chart 3"></td>
       </tr>
     </table>
 
-*   `Hotel_Cancellations_Dashboard.pbix`: The final **Power BI** file containing the interactive dashboard.
+*   `Hotel_Cancellations_Dashboard.pbix`: The final **Power BI** file containing the interactive dashboard. (You should rename this in your repo to match the project theme).
 
-*   `Background_Research.xlsx`: An **Excel** file documenting the initial background knowledge gathered during the "Empathize" phase.
+*   `Background_Research.xlsx`: An **Excel** file documenting the initial background knowledge gathered during the "Empathize" phase. (This file isn't in your screenshot, but leaving it in the README is fine).
 
 ---
 
