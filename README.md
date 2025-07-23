@@ -1,13 +1,12 @@
 # Business Intelligence Analysis: Hotel Booking Cancellations
 
 ### Final Dashboard
-<table>
-  <tr>
-    <td><img src="./Dashboard%20Img%201.jpg" alt="Dashboard View 1"></td>
-    <td><img src="./Dashboard%20Img%202.jpg" alt="Dashboard View 2"></td>
-    <td><img src="./Dashboard%20Img%203.jpg" alt="Dashboard View 3"></td>
-  </tr>
-</table>
+
+![Dashboard View 1](./Dashboard%20Img%201.jpg)
+![Dashboard View 2](./Dashboard%20Img%202.jpg)
+![Dashboard View 3](./Dashboard%20Img%203.jpg)
+
+---
 
 ## Project Overview
 
@@ -40,17 +39,14 @@ This repository contains the core components of the analysis:
     *   **Statistical Testing & Outlier Detection:** Performed ANOVA, Chi-squared, and IQR methods to validate findings.
 
     ### EDA Visualizations
-    <table>
-      <tr>
-        <td><img src="./Eda%20Img%201.jpg" alt="EDA Chart 1"></td>
-        <td><img src="./Eda%20img%202.jpg" alt="EDA Chart 2"></td>
-        <td><img src="./Eda%20Img%203.jpg" alt="EDA Chart 3"></td>
-      </tr>
-    </table>
 
-*   `Hotel_Cancellations_Dashboard.pbix`: The final **Power BI** file containing the interactive dashboard. (You should rename this in your repo to match the project theme).
+    ![EDA Chart 1](./Eda%20Img%201.jpg)
+    ![EDA Chart 2](./Eda%20img%202.jpg)
+    ![EDA Chart 3](./Eda%20Img%203.jpg)
 
-*   `Background_Research.xlsx`: An **Excel** file documenting the initial background knowledge gathered during the "Empathize" phase. (This file isn't in your screenshot, but leaving it in the README is fine).
+*   `Hotel_Cancellations_Dashboard.pbix`: The final **Power BI** file containing the interactive dashboard.
+
+*   `Background_Research.xlsx`: An **Excel** file documenting the initial background knowledge gathered during the "Empathize" phase.
 
 ---
 
